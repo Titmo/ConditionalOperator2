@@ -9,7 +9,6 @@ public class Main {
         task5();
 
     }
-
     public static void task1 () {
         System.out.println("Задача 1");
         byte operatingSystem = 0;
@@ -21,7 +20,6 @@ public class Main {
                 System.out.println("Установите версию приложения для iOS по ссылке");
         }
     }
-
     public static void task2 () {
         System.out.println("Задача 2");
         byte operatingSystem = 0;
@@ -98,5 +96,4 @@ public class Main {
                 break;
         }
     }
-
 }
